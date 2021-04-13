@@ -7,3 +7,5 @@ crediting me would be great but why would you even use this?
 if you want to contact me my discord is RobbieW1976#0756
 
 if i hardcoded like an api key plz msg me cuz that woudl be bad
+
+importand thingy, add a .txt file and name it data.txt or itll break
