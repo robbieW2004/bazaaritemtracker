@@ -1,4 +1,4 @@
-# hypixelbot
+#bazaaritemtracker
 I can't really be bothered to make this. I hardcoded most of the shit in so you can edit some values yourself maybe ill change this.
 enter ur api key where it sais you have to put it in, its opensource and very small so if ur paranoid, you can look in the code.
 the code is shit so you have to hardcode the product you want to track.
