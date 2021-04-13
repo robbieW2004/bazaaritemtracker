@@ -12,7 +12,7 @@ print("######   shit and  you need something else to parse it lol")
 print("#########################################################")
 apiKey = input("enter api code here: ")
 x = 1
-for i in range(0, 115): #I capped itat 115 so even if it breaks the api will not fuck you over
+for i in range(0, 115): #I capped it at 115 so even if it breaks the api will not fuck you over
     #lmao some pieces are in dutch but this gets the price
     prijs = (requests.get("https://api.hypixel.net/skyblock/bazaar?key=" + apiKey).json()["products"]["RECOMBOBULATOR_3000"]["quick_status"]["buyPrice"])
     #this opens the file i am using a txt file cuz thats what i had open atm json could work but i can't be bothered lol maybe in v2
