@@ -27,6 +27,6 @@ for i in range(0, 115): #I capped itat 115 so even if it breaks the api will not
     i = i ++ 1
     x = x ++ 1
     #trying not to get banned from api
-    time.sleep(2)
+    time.sleep(60)
 #finishes loop and thats it
 print("115 requests we done lol")
