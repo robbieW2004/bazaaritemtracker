@@ -10,7 +10,7 @@ print("######   RobbieW made it    #############################")
 print("######   this only grabs    #############################")
 print("######   shit and  you need something else to parse it lol")
 print("#########################################################")
-apiKey = input("enter api code here: ")
+apiKey = input("enter api key here: ")
 x = 1
 for i in range(0, 115): 
     prijs = (requests.get("https://api.hypixel.net/skyblock/bazaar?key=" + apiKey).json()["products"]["RECOMBOBULATOR_3000"]["quick_status"]["buyPrice"])
