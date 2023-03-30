@@ -1,15 +1,7 @@
 import requests
 import time
 import json
-print("#########################################################")
-print("######   welcome to my my   #############################")
-print("######   piece of shit code #############################")
-print("######   its shit but it    #############################")
-print("######   works lol oh and   #############################")
-print("######   RobbieW made it    #############################")
-print("######   this only grabs    #############################")
-print("######   shit and  you need something else to parse it lol")
-print("#########################################################")
+#removed cringe
 apiKey = input("enter api key here: ")
 x = 1
 for i in range(0, 115): 
